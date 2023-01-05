@@ -1,0 +1,71 @@
+﻿@model IEnumerable<QuanLyThucAnNhanh.Models.SanPham>
+@using QuanLyThucAnNhanh.Models
+@{
+    ViewBag.Title = "Index";
+}
+<div class="pd-ltr-20">
+    <div class="card-box pd-20 height-100-p mb-30">
+        <div class="row align-items-center">
+            
+            @if (Session["nguoidung"] != null)
+            {
+                NguoiDung nd = (NguoiDung)Session["nguoidung"];
+
+
+            <div class="col-md-8">
+                <h4 class="font-20 weight-500 mb-10 text-capitalize">
+                    WELCOME BACK <div class="weight-600 font-30 text-red">@nd.Ten</div>
+                </h4>
+            </div>
+            }
+        </div>
+    </div>
+    <div class="row">
+    </div>
+    
+    <div class="card-box mb-30">
+        <h2 class="h4 pd-20">Sản phẩm bán chạy nhất</h2>
+        <table class="data-table table nowrap">
+            <thead>
+                <tr>
+                    <th class="table-plus datatable-nosort">Hình ảnh</th>
+                    <th>Tên sản phẩm</th>
+                    <th>Nhà sản xuất</th>
+                    <th>Năm sản xuất</th>
+                    <th>Nhà phát triển</th>
+                    <th>Giá</th>
+                    <th class="datatable-nosort">Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="table-plus">
+                            <img src="@item.Anh" width="70" height="70" alt="">
+                        </td>
+                        <td>
+                            <h5 class="font-16">@item.Ten</h5>
+                        </td>
+                        <td>@item.NhaSanXuat</td>
+                        <td>@item.NamSX</td>
+                        <td>@item.SoLuoc</td>
+                        <td>@item.Gia</td>
+                        <td>
+                            <div class="dropdown">
+                                <a class="btn btn-link font-24 p-0 line-height-1 no-arrow dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                                    <i class="dw dw-more"></i>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right dropdown-menu-icon-list">
+                                    <a class="dropdown-item" href="@Url.Action("Details","SanPhams", new { id = item.Ma })"><i class="dw dw-eye"></i> Xem chi tiết</a>
+                                    <a class="dropdown-item" href="@Url.Action("Edit","SanPhams", new { id = item.Ma })"><i class="dw dw-edit2"></i> Cập nhật</a>
+                                    <a class="dropdown-item" href="@Url.Action("DeleteConfirmed","SanPhams", new { id = item.Ma })"><i class="dw dw-delete-3"></i> Xóa</a>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

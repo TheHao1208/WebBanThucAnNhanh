@@ -1,0 +1,131 @@
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\QuanLyThucAnNhanh.dll.config
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\QuanLyThucAnNhanh.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\QuanLyThucAnNhanh.pdb
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\csc.exe
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\csc.exe.config
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\csc.rsp
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\csi.exe
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\csi.rsp
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.AppContext.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.Collections.Immutable.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.IO.FileSystem.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.Reflection.Metadata.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\vbc.exe
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\vbc.exe.config
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\vbc.rsp
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\VBCSCompiler.exe
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\VBCSCompiler.exe.config
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Antlr3.Runtime.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\CKFinder.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\EntityFramework.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\EntityFramework.SqlServer.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Microsoft.Web.Infrastructure.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Newtonsoft.Json.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\PagedList.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\PagedList.Mvc.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Helpers.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Mvc.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Optimization.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Razor.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.Deployment.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.Razor.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\WebGrease.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\CKFinder.pdb
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\EntityFramework.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\EntityFramework.SqlServer.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\PagedList.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\PagedList.Mvc.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Helpers.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Mvc.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Optimization.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Razor.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.Deployment.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.Razor.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Newtonsoft.Json.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Antlr3.Runtime.pdb
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\obj\Debug\QuanLyThucAnNhanh.csproj.CoreCompileInputs.cache
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\obj\Debug\QuanLyThucAnNhanh.csproj.CopyComplete
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\obj\Debug\QuanLyThucAnNhanh.dll
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\obj\Debug\QuanLyThucAnNhanh.pdb
+D:\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\obj\Debug\QuanLyThucAnNhanh.csprojAssemblyReference.cache
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\QuanLyThucAnNhanh.dll.config
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\QuanLyThucAnNhanh.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\QuanLyThucAnNhanh.pdb
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\csc.exe
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\csc.exe.config
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\csc.rsp
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\csi.exe
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\csi.rsp
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.AppContext.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.Collections.Immutable.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.IO.FileSystem.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\System.Reflection.Metadata.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\vbc.exe
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\vbc.exe.config
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\vbc.rsp
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\VBCSCompiler.exe
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\roslyn\VBCSCompiler.exe.config
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Antlr3.Runtime.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\CKFinder.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\EntityFramework.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\EntityFramework.SqlServer.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Microsoft.Web.Infrastructure.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Newtonsoft.Json.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\PagedList.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\PagedList.Mvc.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Helpers.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Mvc.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Optimization.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Razor.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.Deployment.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.Razor.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\WebGrease.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\CKFinder.pdb
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\EntityFramework.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\EntityFramework.SqlServer.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\PagedList.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\PagedList.Mvc.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Helpers.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Mvc.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Optimization.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.Razor.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.Deployment.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\System.Web.WebPages.Razor.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Newtonsoft.Json.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Antlr3.Runtime.pdb
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\obj\Debug\QuanLyThucAnNhanh.csproj.CoreCompileInputs.cache
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\obj\Debug\QuanLyThucAnNhanh.csproj.CopyComplete
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\obj\Debug\QuanLyThucAnNhanh.dll
+F:\QuanLyThucAnNhanh (3)\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\QuanLyThucAnNhanh\obj\Debug\QuanLyThucAnNhanh.pdb
